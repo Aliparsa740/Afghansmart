@@ -54,4 +54,8 @@
     .nav-link{
     color: whitesmoke;
     }
+    .card{
+        height: 500px;
+        margin-top: 100px;
+    }
 </style>
